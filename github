@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m
+git branch -M main
+paste to git hub
+git push origin
